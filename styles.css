@@ -1,0 +1,46 @@
+body {
+ font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+nav {
+/*  background: #E1F6B5; */
+ padding: 10px;
+}
+
+.navi {
+ margin: 30px;
+ background: #9DABF7;
+ border: 1px solid white;
+ padding: 6px;
+ border-radius: 5px;
+}
+
+h1 {
+ background: #E1F6B5;
+ padding: 10px;
+}
+footer {
+ background: #E1F6B5; 
+ padding: 10px;
+}
+
+img {
+ border-radius: 20px;
+ margin: 8px;
+}
+
+h3 {
+  margin: 8px;
+}
+
+p {
+  margin: 8px; 
+}
+
+.list {
+  border: 2px solid black;
+  overflow: auto;
+/*   margin: 8px; */
+  display: table-cell;
+}
+
